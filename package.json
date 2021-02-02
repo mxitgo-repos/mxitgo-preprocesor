@@ -1,0 +1,16 @@
+{
+  "name": "preprocessor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clear-module": "^4.1.1",
+    "isbinaryfile": "^4.0.6",
+    "winston": "^3.3.3"
+  }
+}
